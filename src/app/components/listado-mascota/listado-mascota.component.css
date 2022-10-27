@@ -21,3 +21,23 @@ table {
     font-size: 14px;
     width: 100%;
   }
+
+.delete{
+  cursor: pointer;
+  color: rgb(118, 17, 212);
+}
+
+.edit{
+  cursor: pointer;
+  color: rgb(64, 52, 238);
+}
+
+.search{
+  cursor: pointer;
+  color: grey;
+}
+
+.agregar{
+  font-size: 10px;
+  line-height: 28px;
+}
